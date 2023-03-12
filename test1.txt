@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E075-8496
+
+ Directory of C:\Users\Ken\Desktop\MyProject
+
+03/12/2023  03:57 AM    <DIR>          .
+03/12/2023  03:41 AM    <DIR>          ..
+03/12/2023  03:57 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  426,561,130,496 bytes free
